@@ -1,4 +1,3 @@
-
  開発環境
  
     Minecraft 1.10.2
@@ -6,4 +5,10 @@
     
  導入方法
  
-   modsに"AutoJumpStopper-1.0-SNAPSHOT.jar"をぶち込むだけ
+    modsに"AutoJumpStopper-1.0-SNAPSHOT.jar"をぶち込むだけ
+   
+   
+ ダウンロード
+    
+    [Click here](https://cloud.nekonekoserver.net/index.php/s/b9MjjpYKi0xCdeG/download)
+   
