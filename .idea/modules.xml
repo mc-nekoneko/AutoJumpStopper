@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoJumpStopper.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoJumpStopper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoJumpStopper_api.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoJumpStopper_api.iml" group="AutoJumpStopper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoJumpStopper_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoJumpStopper_main.iml" group="AutoJumpStopper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoJumpStopper_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoJumpStopper_test.iml" group="AutoJumpStopper" />
+    </modules>
+  </component>
+</project>

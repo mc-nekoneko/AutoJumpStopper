@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "AutoJumpStopper",
+    "name": "AutoJumpStopper",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://www.nekonekoserver.net",
+    "updateUrl": "",
+    "authorList": [
+      "Nekoneko"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
